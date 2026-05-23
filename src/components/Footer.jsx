@@ -11,7 +11,7 @@ import {
 
 import { Link } from "react-router-dom";
 
-import footerImg from "../assets/images/IMG24.jpg";
+import footerImg from "../assets/images/Siyakha Youth Foundation.pdf.png";
 
 function Footer() {
 
