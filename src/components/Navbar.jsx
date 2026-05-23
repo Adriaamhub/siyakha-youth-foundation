@@ -9,7 +9,7 @@ import {
   FaArrowRight,
 } from "react-icons/fa";
 
-import logo from "../assets/images/IMG1.jpg";
+import logo from "../assets/images/Siyakha Youth Foundation.pdf.png";
 
 function Navbar() {
 
